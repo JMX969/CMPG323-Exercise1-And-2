@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JMX\\Desktop\\NWU\\CMPG323\\Homework\\Exercise1\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2.csproj": {}
+    "C:\\Users\\JMX\\Desktop\\NWU\\CMPG323\\HomeWrk\\CMPG323-Exercise1-And-2\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JMX\\Desktop\\NWU\\CMPG323\\Homework\\Exercise1\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2.csproj": {
+    "C:\\Users\\JMX\\Desktop\\NWU\\CMPG323\\HomeWrk\\CMPG323-Exercise1-And-2\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JMX\\Desktop\\NWU\\CMPG323\\Homework\\Exercise1\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2.csproj",
+        "projectUniqueName": "C:\\Users\\JMX\\Desktop\\NWU\\CMPG323\\HomeWrk\\CMPG323-Exercise1-And-2\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2.csproj",
         "projectName": "CMPG323Homework-Exercise1-and-2",
-        "projectPath": "C:\\Users\\JMX\\Desktop\\NWU\\CMPG323\\Homework\\Exercise1\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2.csproj",
+        "projectPath": "C:\\Users\\JMX\\Desktop\\NWU\\CMPG323\\HomeWrk\\CMPG323-Exercise1-And-2\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2.csproj",
         "packagesPath": "C:\\Users\\JMX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JMX\\Desktop\\NWU\\CMPG323\\Homework\\Exercise1\\CMPG323Homework-Exercise1-and-2\\CMPG323Homework-Exercise1-and-2\\obj\\",
+        "outputPath": "C:\\Users\\JMX\\Desktop\\NWU\\CMPG323\\HomeWrk\\CMPG323-Exercise1-And-2\\CMPG323Homework-Exercise1-and-2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
